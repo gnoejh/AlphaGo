@@ -13,7 +13,7 @@ pbr==3.1.1
 protobuf==3.5.1
 pygtp==0.3
 PyYAML==3.12
-scipy==0.19.0
+scipy==1.10.0
 sgf==0.5
 six==1.10.0
 tensorflow==1.2.1
